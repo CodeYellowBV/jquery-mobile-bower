@@ -6,7 +6,7 @@
     "css/jquery.mobile-1.4.5.css"
   ],
   "dependencies": {
-    "jquery": "~1.10.0"
+    "jquery": "~2.1.0"
   },
   "repository": {
     "type": "git",
